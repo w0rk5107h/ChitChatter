@@ -1,5 +1,5 @@
 # ChitChatter
-A complete chat app.
+A complete command line chat app.
 
 This is my first python project, a command line chat app using sockets.
 From this you can chat with anyone, on the same network or on the different network.
