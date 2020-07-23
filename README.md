@@ -14,7 +14,7 @@ USAGE:
 
         [2] Then enter your computer's local ipv4 or public ipv4.
 
-        [3] Then enter any port of your choice (1000+ preffered)
+        [3] Then enter any port of your choice (8000+ preffered)
 
         [4] By doing this your server should start.
 
