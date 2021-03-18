@@ -87,4 +87,3 @@ if __name__ == "__main__":
     send.join()
 
     print("Connection CLOSED!!!!")
-    input()
